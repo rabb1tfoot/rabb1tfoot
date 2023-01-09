@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![rabb1tfoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabb1tfoot&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjwns999)](https://solved.ac/tjwns999)
+
+![rabb1tfoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabb1tfoot&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabb1tfoot&layout=Demo&theme=compact)
 
 <!--
