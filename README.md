@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![rabb1tfoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabb1tfoot&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjwns999)](https://solved.ac/tjwns999)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabb1tfoot&layout=Demo&theme=compact)
+
 <!--
 **rabb1tfoot/rabb1tfoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
